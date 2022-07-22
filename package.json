@@ -113,7 +113,7 @@
     "dexie": "^2.0.4",
     "dot-prop-immutable": "^1.4.0",
     "electron-context-menu": "^0.10.0",
-    "file-type": "^8.0.0",
+    "file-type": "^16.5.4",
     "fs-jetpack": "^2.1.0",
     "get-value": "^3.0.1",
     "ipfsd-ctl": "^0.39.0",
